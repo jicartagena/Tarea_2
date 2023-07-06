@@ -1,0 +1,3 @@
+## Single Source Shortest Path
+
+Este codigo se basa en un solo bloque de codigo. la diferencia es que el proceso se realiza mediante la funcion sssp, y l a definicion de variables es al final. la funcion principal ```ssp``` se encarga de entregarnos una lista con la tupla de (nodo, costo), la cual se recorre al final de bloque de codigo. Aca solo tenemos 3 variables que se pueden interactuar: la lista de nodos y aristas, con sus respectivos costos, y el nodo inicial de donde comienza el algoritmo. cabe recalcar que al probar tantas posibilidades, el codigo puede tender a tener un tiempo de ejecución considerable.
